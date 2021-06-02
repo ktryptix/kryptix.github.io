@@ -1,0 +1,28 @@
+body
+{
+background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nBgvRFcnp8-nLy2cIRWRVyj5jUZkJTsL9Q&usqp=CAU');
+background-size:cover;
+background-repeat:no-repeat;
+}
+form
+{
+background-color:white;
+width:300px;
+border:15px solid blue;
+padding:50px;
+margin:20px;
+}
+2:
+{
+    background-color: skyblue;
+    text-align:center;
+    border:4px;
+    width:200px;
+    height;100px;
+    font-size:30px;
+}
+h1
+{
+    text-decoration:underline;
+    color: floralwhite;
+}
